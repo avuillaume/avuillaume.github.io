@@ -12,6 +12,6 @@ survey analysis.**, _with Denis Charles. [Working Paper]
 
   <details><summary>Abstract</summary><p align="justify"><em></em></p></details>
 
-*Preferences for prevention in life insurance contract : a discret choice experiment.**[Working Paper]
+* **Preferences for prevention in life insurance contract : a discret choice experiment.**[Working Paper]
 
    <details><summary>Abstract</summary><p align="justify"><em></em></p></details>
