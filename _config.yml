@@ -28,7 +28,7 @@ author:
   bio              : "Doctorant | ENS Paris-Saclay | SCOR"
   location         : "Paris"
   #employer         : "Red Brick University"
-  #uri              : # URL
+ #linkedin              : https://www.linkedin.com/in/anthony-vuillaume/
   email            : "anthony.vuillaume@ens-paris-saclay.fr" 
 
   # Academic websites
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : anthony-vuillaume
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
